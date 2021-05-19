@@ -10,4 +10,4 @@ added port forwarding feature /portf <port> //uses ngrok
 </pre>
 
 <h2>screenshots</h2>
-![Alt Text](https://user-images.githubusercontent.com/81591768/118799446-69434e80-b8a7-11eb-8cfd-3425a1a332c6.png)
+![Screenshot](screenshot.png)
