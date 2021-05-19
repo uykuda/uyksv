@@ -3,10 +3,10 @@ uyksv geliştirilme aşamasında olan bir minecraft sunucu kurma programıdır. 
 
 <h2>log</h2>
 <pre>
-added help feature /? or /? <parameter>
+added help feature /? or /? < parameter >
 added create server feature /olustur
-added select server version feature ex. /olustur /v <version>
-added port forwarding feature /port <port> //uses ngrok
+added select server version feature ex. /olustur /v < version >
+added port forwarding feature /port < port > //uses ngrok
 </pre>
 
 <h2>screenshots</h2>
