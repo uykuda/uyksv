@@ -6,7 +6,7 @@ uyksv geliştirilme aşamasında olan bir minecraft sunucu kurma programıdır. 
 added help feature /? or /? <parameter>
 added create server feature /olustur
 added select server version feature ex. /olustur /v <version>
-added port forwarding feature /portf <port> //uses ngrok
+added port forwarding feature /port <port> //uses ngrok
 </pre>
 
 <h2>screenshots</h2>
